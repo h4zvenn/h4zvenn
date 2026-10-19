@@ -1,74 +1,84 @@
-# Привет, я h4zvenn 👋
+# Hi, I’m h4zvenn 👋
 
-Разработчик, которому важны чистая архитектура, понятный код и продукты, реально решающие задачи пользователей.
+Backend-focused developer building practical automation tools and API-first products.
 
-Сейчас фокус: **backend, web-разработка, автоматизация и developer experience**.
-
----
-
-## 🚀 Чем занимаюсь
-
-- Развиваю личные pet-проекты: Telegram-боты, автоматизацию Windows и инструменты для продуктивности
-- Улучшаю навыки проектирования API, архитектуры приложений и качества кода
-- Пишу понятную документацию и делаю проекты удобными для повторного использования
-
-## 💼 Открыт к
-
-- Стажировкам и Junior-позициям
-- Командным open-source задачам
-- Проектам с понятной продуктовой целью
+**Current focus:** Python, FastAPI, PostgreSQL, Redis, Docker, GitHub Actions.
 
 ---
 
-## 🛠️ Стек и инструменты
+## 🚀 What I’m working on
+
+- Building backend systems and Telegram bots with clear architecture
+- Designing reliable APIs with validation, auth, and background jobs
+- Improving code quality through testing, CI, and documentation
+
+## 🎯 Career direction
+
+- Junior Backend Developer (Python/FastAPI)
+- Internship roles with strong engineering mentorship
+- Open-source collaboration and real product tasks
+
+---
+
+## 🛠️ Backend stack
 
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111111?style=for-the-badge&logo=githubactions)
+![Pytest](https://img.shields.io/badge/Pytest-111111?style=for-the-badge&logo=pytest)
 
 ---
 
-## 📌 Проекты
+## 📌 Featured projects
 
 ### [Telegram Obsidian Bot](https://github.com/h4zvenn/telegram-obsidian-bot-ru)
-Telegram-бот для работы с заметками Obsidian: помогает сохранять и структурировать информацию из мессенджера в личной базе знаний.
+Telegram bot that transforms incoming messages into structured Markdown notes for Obsidian.
 
-**Стек:** Python, Telegram Bot API, Obsidian / Markdown.
-
-### [Gaming PC Optimization](https://github.com/h4zvenn/gaming-pc-optimization-ru)
-Практическое руководство по оптимизации игрового ПК: настройка Windows, производительность в играх, стабильность системы и полезные инструменты.
-
-**Стек:** Windows, PowerShell, документация.
+**Backend focus:** API integrations, message processing, structured output pipelines.
 
 ### [Safe PC Assistant Bot](https://github.com/h4zvenn/safe-pc-assistant-bot)
-Безопасный Telegram-бот для личного ПК с allowlist-подходом. Это не RAT и не скрытый удалённый доступ, а прозрачный инструмент для запуска разрешённых действий, мониторинга и рутинных сценариев на Windows. [2][4]
+Safe-by-design Telegram assistant for personal PC routines (allowlist approach, transparent actions).
 
-**Стек:** Python, Telegram Bot API, Windows automation.
+**Backend focus:** bot command architecture, security boundaries, controlled automation.
+
+### [Gaming PC Optimization](https://github.com/h4zvenn/gaming-pc-optimization-ru)
+Practical optimization guide and scripts for Windows gaming performance and stability.
+
+**Backend focus:** automation mindset, reproducible procedures, technical documentation.
 
 ---
 
-## 📊 GitHub статистика
+## 🧭 Learning roadmap (2026)
+
+- [ ] FastAPI production patterns (dependencies, services, routers)
+- [ ] PostgreSQL migrations, indexing, transactions
+- [ ] Redis caching + background jobs
+- [ ] API testing strategy (unit + integration)
+- [ ] Observability (structured logs, metrics, health checks)
+- [ ] CI/CD pipelines and release process
+
+---
+
+## 📊 GitHub stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=h4zvenn&show_icons=true&theme=transparent&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4zvenn&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
-## 📫 Контакты
+## 📫 Contacts
 
-- Email: **[offkuzmenko@gmail.com](mailto:offkuzmenko@gmail.com)**
+- Email: **offkuzmenko@gmail.com**
 - Telegram: **[@h4zvenn](https://t.me/h4zvenn)**
 - LinkedIn: **[linkedin.com/in/h4zvenn](https://www.linkedin.com/in/h4zvenn)**
-- Portfolio: **[kuzmenko.vip](https://kuzmenko.vip)** — скоро
 
 ---
 
-## ⚡ Коротко обо мне
+## ⚡ Quick facts
 
-- Люблю структурный подход и доводить задачи до результата
-- Быстро учусь и спокойно разбираюсь в новом коде
-- Ценю код-ревью, адекватный фидбек и командную коммуникацию
+- I prefer clean architecture and practical solutions
+- I enjoy turning messy flows into predictable systems
+- I’m consistent with long-term learning and project delivery
