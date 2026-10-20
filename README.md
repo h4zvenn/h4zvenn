@@ -1,6 +1,6 @@
 # Hi, I’m h4zvenn 👋
 
-I’m a backend-focused developer building practical automation tools and API-first products. I’m currently focusing on Python, FastAPI, PostgreSQL, Redis, Docker, and GitHub Actions.
+I’m a backend-focused developer building practical automation tools, Telegram bots, and API-first products. I’m interested in reliable systems, clear security boundaries, and useful automation.
 
 ## What I’m working toward
 
@@ -10,28 +10,25 @@ I’m a backend-focused developer building practical automation tools and API-fi
 
 I’m looking for junior Python backend and internship opportunities, as well as open-source projects where I can contribute to real products and learn from experienced engineers.
 
-## Tech stack
+## Tools used in my projects
 
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111111?style=for-the-badge&logo=githubactions)
-![Pytest](https://img.shields.io/badge/Pytest-111111?style=for-the-badge&logo=pytest)
+![aiogram](https://img.shields.io/badge/aiogram-111111?style=for-the-badge&logo=telegram)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell-111111?style=for-the-badge&logo=powershell)
 
 ## Selected projects
 
 ### [Telegram Obsidian Bot](https://github.com/h4zvenn/telegram-obsidian-bot-ru)
-Turns incoming Telegram messages into structured Markdown notes for Obsidian. Focus areas: API integrations, message processing, and structured output.
+Turns text and voice messages into Markdown notes for Obsidian. Voice notes are transcribed locally with faster-whisper, then optionally edited with a local Ollama model. Also supports raw saves, plan formatting, and browsing recent notes.
 
 ### [Safe PC Assistant Bot](https://github.com/h4zvenn/safe-pc-assistant-bot)
-A Telegram assistant for personal PC routines, designed around an allowlist and transparent actions. Focus areas: command architecture, security boundaries, and controlled automation.
+A personal Windows PC assistant built around authorized users, allowlisted apps and scenarios, and confirmations for sensitive actions. Core bot features are in place; alerts monitoring, configuration validation, and some system and power actions are still in progress.
 
 ### [Gaming PC Optimization](https://github.com/h4zvenn/gaming-pc-optimization-ru)
-A practical Windows gaming performance and stability guide with scripts. Focus areas: reproducible procedures, automation, and technical documentation.
+A Russian-language Windows 11 guide focused on diagnosing performance bottlenecks, improving stability, and measuring results. Includes safe PowerShell diagnostics and explains which risky “optimization” tweaks to avoid.
 
-## Current learning goals
+## Currently learning
 
 - [ ] FastAPI production patterns: dependencies, services, and routers
 - [ ] PostgreSQL migrations, indexing, and transactions
