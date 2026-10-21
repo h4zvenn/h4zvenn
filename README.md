@@ -8,7 +8,7 @@ Backend-focused developer building practical automation tools and API-first prod
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/h4zvenn)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:offkuzmenko@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h4zvenn)
-[![Resume](https://img.shields.io/badge/Resume-6D28D9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/h4zvenn/cv/main/H4ZVENN_Junior_Backend_Developer.pdf)
+[![Resume](https://img.shields.io/badge/Resume-6D28D9?style=for-the-badge&logo=markdown&logoColor=white)](https://raw.githubusercontent.com/h4zvenn/cv/main/H4ZVENN_Junior_Backend_Developer.pdf)
 
 ---
 
