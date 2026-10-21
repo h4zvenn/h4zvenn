@@ -41,16 +41,6 @@ Safe-by-design Telegram assistant for personal PC routines with an allowlist-bas
 
 **Stack:** Python · Telegram Bot API · Automation
 
-### [Gaming PC Optimization](https://github.com/h4zvenn/gaming-pc-optimization-ru)
-
-Practical optimization guide and scripts for improving Windows gaming performance and stability.
-
-- Reproducible optimization procedures and automation scripts
-- Technical documentation for setup, configuration, and troubleshooting
-- Focus on safe, reversible system changes
-
-**Stack:** Windows · PowerShell · Documentation
-
 ---
 
 ## 🛠️ Backend stack
