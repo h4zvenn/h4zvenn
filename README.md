@@ -2,7 +2,8 @@
 
 Backend-focused developer building practical automation tools and API-first products.
 
-**Current focus:** Python · FastAPI · PostgreSQL · Redis · Docker · GitHub Actions
+**Current focus:** Python · FastAPI · PostgreSQL · Redis · Docker · GitHub Actions  
+**Open to:** Junior Backend Developer · Python/FastAPI internships · remote or hybrid
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/h4zvenn)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:offkuzmenko@gmail.com)
@@ -13,14 +14,42 @@ Backend-focused developer building practical automation tools and API-first prod
 ## 🚀 What I’m working on
 
 - Building backend systems and Telegram bots with clear architecture
-- Designing reliable APIs with validation, auth, and background jobs
+- Designing reliable APIs with validation, authentication, and background jobs
 - Improving code quality through testing, CI, and documentation
 
-## 🎯 Career direction
+---
 
-- Junior Backend Developer — Python / FastAPI
-- Internship roles with strong engineering mentorship
-- Open-source collaboration and real product tasks
+## 📌 Featured projects
+
+### [Telegram Obsidian Bot](https://github.com/h4zvenn/telegram-obsidian-bot-ru)
+
+Telegram bot that transforms incoming messages into structured Markdown notes for Obsidian.
+
+- Message parsing, validation, and Markdown generation pipeline
+- Configurable note templates and structured output
+- Built with Python, Telegram Bot API, and a clean service-layer architecture
+
+**Stack:** Python · Telegram Bot API · Markdown processing
+
+### [Safe PC Assistant Bot](https://github.com/h4zvenn/safe-pc-assistant-bot)
+
+Safe-by-design Telegram assistant for personal PC routines with an allowlist-based approach.
+
+- Bot command architecture and controlled automation flows
+- Security boundaries, allowlists, and transparent user actions
+- Focus on predictable behavior and safe execution of system tasks
+
+**Stack:** Python · Telegram Bot API · Automation
+
+### [Gaming PC Optimization](https://github.com/h4zvenn/gaming-pc-optimization-ru)
+
+Practical optimization guide and scripts for improving Windows gaming performance and stability.
+
+- Reproducible optimization procedures and automation scripts
+- Technical documentation for setup, configuration, and troubleshooting
+- Focus on safe, reversible system changes
+
+**Stack:** Windows · PowerShell · Documentation
 
 ---
 
@@ -36,45 +65,16 @@ Backend-focused developer building practical automation tools and API-first prod
 
 ---
 
-## 📌 Featured projects
+## 🧭 Currently learning
 
-### [Telegram Obsidian Bot](https://github.com/h4zvenn/telegram-obsidian-bot-ru)
-Telegram bot that transforms incoming messages into structured Markdown notes for Obsidian.
-
-**Backend focus:** API integrations, message processing, structured output pipelines.
-
-### [Safe PC Assistant Bot](https://github.com/h4zvenn/safe-pc-assistant-bot)
-Safe-by-design Telegram assistant for personal PC routines — allowlist approach and transparent actions.
-
-**Backend focus:** bot command architecture, security boundaries, controlled automation.
-
-### [Gaming PC Optimization](https://github.com/h4zvenn/gaming-pc-optimization-ru)
-Practical optimization guide and scripts for Windows gaming performance and stability.
-
-**Backend focus:** automation mindset, reproducible procedures, technical documentation.
-
----
-
-## 🧭 Learning roadmap — 2026
-
-- [ ] FastAPI production patterns: dependencies, services, routers
-- [ ] PostgreSQL migrations, indexing, transactions
-- [ ] Redis caching and background jobs
-- [ ] API testing strategy: unit + integration
-- [ ] Observability: structured logs, metrics, health checks
-- [ ] CI/CD pipelines and release process
+- FastAPI production patterns: dependencies, services, routers
+- PostgreSQL migrations, indexing, and transactions
+- Redis caching and background jobs
+- API testing strategy: unit and integration tests
+- Observability: structured logs, metrics, and health checks
 
 ---
 
 ## 📊 GitHub stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=h4zvenn&show_icons=true&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h4zvenn&layout=compact&theme=transparent&hide_border=true)
-
----
-
-## ⚡ Quick facts
-
-- I prefer clean architecture and practical solutions
-- I enjoy turning messy flows into predictable systems
-- I’m consistent with long-term learning and project delivery
