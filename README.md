@@ -4,9 +4,9 @@ Backend-focused developer building practical automation tools and API-first prod
 
 **Current focus:** Python · FastAPI · PostgreSQL · Redis · Docker · GitHub Actions
 
-[![Telegram](https://img.shields.io/badge/Telegram-h4zvenn-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/h4zvenn)
-[![Email](https://img.shields.io/badge/Email-offkuzmenko%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:offkuzmenko@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-h4zvenn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h4zvenn)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/h4zvenn)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:offkuzmenko@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h4zvenn)
 
 ---
 
