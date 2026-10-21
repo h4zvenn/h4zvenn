@@ -2,7 +2,11 @@
 
 Backend-focused developer building practical automation tools and API-first products.
 
-**Current focus:** Python, FastAPI, PostgreSQL, Redis, Docker, GitHub Actions.
+**Current focus:** Python · FastAPI · PostgreSQL · Redis · Docker · GitHub Actions
+
+[![Telegram](https://img.shields.io/badge/Telegram-h4zvenn-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/h4zvenn)
+[![Email](https://img.shields.io/badge/Email-offkuzmenko%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:offkuzmenko@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-h4zvenn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h4zvenn)
 
 ---
 
@@ -14,7 +18,7 @@ Backend-focused developer building practical automation tools and API-first prod
 
 ## 🎯 Career direction
 
-- Junior Backend Developer (Python/FastAPI)
+- Junior Backend Developer — Python / FastAPI
 - Internship roles with strong engineering mentorship
 - Open-source collaboration and real product tasks
 
@@ -22,13 +26,13 @@ Backend-focused developer building practical automation tools and API-first prod
 
 ## 🛠️ Backend stack
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111111?style=for-the-badge&logo=githubactions)
-![Pytest](https://img.shields.io/badge/Pytest-111111?style=for-the-badge&logo=pytest)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ---
 
@@ -40,7 +44,7 @@ Telegram bot that transforms incoming messages into structured Markdown notes fo
 **Backend focus:** API integrations, message processing, structured output pipelines.
 
 ### [Safe PC Assistant Bot](https://github.com/h4zvenn/safe-pc-assistant-bot)
-Safe-by-design Telegram assistant for personal PC routines (allowlist approach, transparent actions).
+Safe-by-design Telegram assistant for personal PC routines — allowlist approach and transparent actions.
 
 **Backend focus:** bot command architecture, security boundaries, controlled automation.
 
@@ -51,13 +55,13 @@ Practical optimization guide and scripts for Windows gaming performance and stab
 
 ---
 
-## 🧭 Learning roadmap (2026)
+## 🧭 Learning roadmap — 2026
 
-- [ ] FastAPI production patterns (dependencies, services, routers)
+- [ ] FastAPI production patterns: dependencies, services, routers
 - [ ] PostgreSQL migrations, indexing, transactions
-- [ ] Redis caching + background jobs
-- [ ] API testing strategy (unit + integration)
-- [ ] Observability (structured logs, metrics, health checks)
+- [ ] Redis caching and background jobs
+- [ ] API testing strategy: unit + integration
+- [ ] Observability: structured logs, metrics, health checks
 - [ ] CI/CD pipelines and release process
 
 ---
@@ -65,15 +69,7 @@ Practical optimization guide and scripts for Windows gaming performance and stab
 ## 📊 GitHub stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=h4zvenn&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4zvenn&layout=compact&theme=transparent&hide_border=true)
-
----
-
-## 📫 Contacts
-
-- Email: **offkuzmenko@gmail.com**
-- Telegram: **[@h4zvenn](https://t.me/h4zvenn)**
-- LinkedIn: **[linkedin.com/in/h4zvenn](https://www.linkedin.com/in/h4zvenn)**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h4zvenn&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
