@@ -66,8 +66,8 @@ Safe-by-design Telegram assistant for personal PC routines with an allowlist-bas
 
 ---
 
-## 📊 Top Languages
+## 📊 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4zvenn&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h4zvenn&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
