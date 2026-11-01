@@ -1,22 +1,31 @@
+<div align="center">
+
 # Hi, I’m h4zvenn 👋
 
-Backend-focused developer building practical automation tools and API-first products.
+**Backend Developer** building practical automation tools and API-first products.
 
-**Current focus:** Python · FastAPI · PostgreSQL · Redis · Docker · GitHub Actions  
-**Open to:** Junior Backend Developer · Python/FastAPI internships · remote or hybrid
+I focus on clean architecture, reliable APIs, and developer-friendly tooling.
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/h4zvenn)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:offkuzmenko@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&v=2)](https://www.linkedin.com/in/h4zvenn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h4zvenn)
 [![Resume](https://img.shields.io/badge/Resume-6D28D9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/h4zvenn/cv/main/H4ZVENN_Junior_Backend_Developer.pdf)
+
+</div>
 
 ---
 
-## 🚀 What I’m working on
+## 🚀 About me
 
-- Building backend systems and Telegram bots with clear architecture
-- Designing reliable APIs with validation, authentication, and background jobs
-- Improving code quality through testing, CI, and documentation
+I build backend services, Telegram bots, and automation tools with a focus on:
+
+- Clear service-layer architecture
+- Predictable API behavior
+- Validation, authentication, and background jobs
+- Testable and maintainable code
+- Practical documentation and CI workflows
+
+**Currently open to:** Junior Backend Developer roles and Python/FastAPI internships — remote or hybrid.
 
 ---
 
@@ -24,27 +33,39 @@ Backend-focused developer building practical automation tools and API-first prod
 
 ### [Telegram Obsidian Bot](https://github.com/h4zvenn/telegram-obsidian-bot-ru)
 
-Telegram bot that transforms incoming messages into structured Markdown notes for Obsidian.
+A Telegram bot that turns incoming messages into structured Markdown notes for Obsidian.
 
 - Message parsing, validation, and Markdown generation pipeline
 - Configurable note templates and structured output
-- Built with Python, Telegram Bot API, and a clean service-layer architecture
+- Clean service-layer architecture
 
 **Stack:** Python · Telegram Bot API · Markdown processing
 
 ### [Safe PC Assistant Bot](https://github.com/h4zvenn/safe-pc-assistant-bot)
 
-Safe-by-design Telegram assistant for personal PC routines with an allowlist-based approach.
+A safety-first Telegram assistant for personal PC maintenance routines.
 
-- Bot command architecture and controlled automation flows
-- Security boundaries, allowlists, and transparent user actions
-- Focus on predictable behavior and safe execution of system tasks
+- Allowlist-based automation with predictable actions
+- Clear command architecture and controlled execution flows
+- Security boundaries and transparent user actions
 
 **Stack:** Python · Telegram Bot API · Automation
+
+### [Gaming PC Guide](https://github.com/h4zvenn/gaming-pc-guide)
+
+A bilingual Jekyll documentation site with practical Windows 11 gaming optimization guidance.
+
+- Bottleneck diagnosis and measurable optimization workflow
+- Game-specific guides for CS2, VALORANT, PUBG, Minecraft Java, and World of Tanks
+- Markdown linting, link checking, and GitHub Actions CI
+
+**Stack:** Jekyll · Markdown · GitHub Actions · GitHub Pages
 
 ---
 
 ## 🛠️ Backend stack
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -54,11 +75,13 @@ Safe-by-design Telegram assistant for personal PC routines with an allowlist-bas
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
+</div>
+
 ---
 
 ## 🧭 Currently learning
 
-- FastAPI production patterns: dependencies, services, routers
+- FastAPI production patterns: dependencies, services, and routers
 - PostgreSQL migrations, indexing, and transactions
 - Redis caching and background jobs
 - API testing strategy: unit and integration tests
@@ -66,8 +89,21 @@ Safe-by-design Telegram assistant for personal PC routines with an allowlist-bas
 
 ---
 
-## 📊 GitHub Streak
+## 📊 GitHub statistics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h4zvenn&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=h4zvenn&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4zvenn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Let’s connect:**  
+[Telegram](https://t.me/h4zvenn) · [Email](mailto:offkuzmenko@gmail.com) · [LinkedIn](https://www.linkedin.com/in/h4zvenn)
+
+</div>
