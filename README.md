@@ -51,15 +51,17 @@ A safety-first Telegram assistant for personal PC maintenance routines.
 
 **Stack:** Python · Telegram Bot API · Automation
 
-### [Gaming PC Guide](https://github.com/h4zvenn/gaming-pc-guide)
+### [Ultimate PC Gaming Optimization Guide 2026](https://github.com/h4zvenn/gaming-pc-guide)
 
-A bilingual Jekyll documentation site with practical Windows 11 gaming optimization guidance.
+A bilingual (EN/RU) Jekyll documentation site with evidence-based, hardware-agnostic gaming PC optimization.
 
-- Bottleneck diagnosis and measurable optimization workflow
-- Game-specific guides for CS2, VALORANT, PUBG, Minecraft Java, and World of Tanks
+- Windows 11 playbook with a separate Windows 10 legacy section
+- Bottleneck diagnosis and repeatable benchmark workflow
+- Game guides for CS2, VALORANT, PUBG, Minecraft Java, and World of Tanks
+- Read-only diagnostics menu (BAT + PowerShell) with explicit export consent
 - Markdown linting, link checking, and GitHub Actions CI
 
-**Stack:** Jekyll · Markdown · GitHub Actions · GitHub Pages
+**Stack:** Jekyll · Markdown · PowerShell · GitHub Actions · GitHub Pages
 
 ---
 
@@ -89,11 +91,16 @@ A bilingual Jekyll documentation site with practical Windows 11 gaming optimizat
 
 ---
 
-## 🏆 GitHub achievements
+## 📊 GitHub activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=h4zvenn&theme=discord&no-frame=true&no-bg=true&margin-w=8" alt="GitHub achievements" />
+[![GitHub followers](https://img.shields.io/github/followers/h4zvenn?style=for-the-badge&logo=github&label=Followers)](https://github.com/h4zvenn?tab=followers)
+[![Public repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fh4zvenn)](https://github.com/h4zvenn?tab=repositories)
+
+[![GitHub streak](https://streak-stats.demolab.com/?user=h4zvenn&theme=github-dark&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+![Contribution graph](https://ghchart.rshah.org/3b82f6/h4zvenn)
 
 </div>
 
