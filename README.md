@@ -89,13 +89,11 @@ A bilingual Jekyll documentation site with practical Windows 11 gaming optimizat
 
 ---
 
-## 📊 GitHub statistics
+## 🏆 GitHub achievements
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=h4zvenn&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4zvenn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
+<img src="https://github-profile-trophy.vercel.app/?username=h4zvenn&theme=discord&no-frame=true&no-bg=true&margin-w=8" alt="GitHub achievements" />
 
 </div>
 
