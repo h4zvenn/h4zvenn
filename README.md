@@ -30,46 +30,57 @@ I enjoy building tools that solve real problems, experimenting with new technolo
 
 ---
 
-## 🚀 Featured Projects
 
-### 🎮 [PC Gaming Optimization Guide](https://github.com/h4zvenn/gaming-pc-optimization-guide)
+<h2>Featured Projects</h2>
 
-A bilingual technical documentation project focused on Windows gaming performance, diagnostics, and evidence-based optimization.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Highlights**
-- Windows 11 optimization and legacy Windows 10 guidance
-- CPU, GPU, and network performance troubleshooting
-- Game-specific configuration guides
-- Repeatable benchmarks and diagnostic utilities
-- Automated documentation checks
+<h3>🎮 PC Optimization Guide</h3>
 
-**Tech:** `Jekyll` `Markdown` `PowerShell` `GitHub Actions`
+Technical guides for Windows gaming performance, troubleshooting, and reproducible benchmarking.
 
-🌐 [Live Documentation](https://h4zvenn.github.io/gaming-pc-optimization-guide/)
+<sub><b>Jekyll · PowerShell · GitHub Actions</b></sub>
 
-### 📝 [Telegram Obsidian Bot](https://github.com/h4zvenn/telegram-obsidian-bot-ru)
+<p>
+<a href="https://github.com/h4zvenn/gaming-pc-optimization-guide">Repository</a>
+&nbsp;·&nbsp;
+<a href="https://h4zvenn.github.io/gaming-pc-optimization-guide/">Live Site</a>
+</p>
 
-A Python Telegram bot designed to transform messages into structured Markdown notes for Obsidian.
+</td>
+<td width="50%" valign="top">
 
-**Highlights**
-- Automatic message-to-note processing
-- Configurable Markdown templates
-- Structured note organization
-- Separation of commands and processing logic
+<h3>📝 Telegram Obsidian Bot</h3>
 
-**Tech:** `Python` `Telegram Bot API` `Markdown`
+Convert Telegram messages into structured Markdown notes with configurable templates.
 
-### 🖥️ [Safe PC Assistant Bot](https://github.com/h4zvenn/safe-pc-assistant-bot)
+<sub><b>Python · Telegram Bot API · Markdown</b></sub>
 
-A Telegram-based assistant for controlled PC automation and maintenance.
+<p>
+<a href="https://github.com/h4zvenn/telegram-obsidian-bot-ru">Repository</a>
+</p>
 
-**Highlights**
-- Allowlisted system operations
-- Structured command execution
-- Explicit operational boundaries
-- Focus on predictable, controlled behavior
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-**Tech:** `Python` `Telegram Bot API` `Automation`
+<h3>🖥️ Safe PC Assistant Bot</h3>
+
+A Telegram-based PC automation assistant with allowlisted actions and controlled execution.
+
+<sub><b>Python · Telegram Bot API · Automation</b></sub>
+
+<p>
+<a href="https://github.com/h4zvenn/safe-pc-assistant-bot">Repository</a>
+</p>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -84,15 +95,16 @@ A Telegram-based assistant for controlled PC automation and maintenance.
 
 </div>
 
-### 📖 Currently Learning
 
-| Technology | Focus |
-|---|---|
-| **FastAPI** | REST APIs, dependencies, authentication |
-| **PostgreSQL** | SQL, relational modeling, migrations |
-| **Redis** | Caching and background tasks |
-| **Docker** | Containers and development environments |
-| **pytest** | Unit and integration testing |
+## Currently Learning
+
+Building stronger foundations in backend development, databases, and testing.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 ---
 
