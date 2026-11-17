@@ -7,7 +7,7 @@
 Building practical tools, exploring backend engineering, and turning ideas into working software.
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/h4zvenn)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:offkuzmenko@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=offkuzmenko%40gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h4zvenn)
 [![Resume](https://img.shields.io/badge/Resume-6D28D9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/h4zvenn/cv/main/H4ZVENN_Junior_Backend_Developer.pdf)
 
@@ -100,6 +100,6 @@ A Telegram-based assistant for controlled PC automation and maintenance.
 
 **Interested in building something together?**
 
-[Get in touch](mailto:offkuzmenko@gmail.com)
+[Get in touch](https://mail.google.com/mail/?view=cm&fs=1&to=offkuzmenko%40gmail.com)
 
 </div>
