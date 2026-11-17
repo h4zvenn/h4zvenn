@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hey, I'm h4zvenn 👋
@@ -89,9 +88,15 @@ A Telegram-based assistant designed for controlled PC maintenance and automation
 
 ### Currently Learning
 
-Expanding my backend development skills with:
+<div align="center">
 
-**FastAPI** · **PostgreSQL** · **Redis** · **Docker** · **pytest**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+</div>
 
 ---
 
