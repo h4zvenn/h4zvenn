@@ -1,10 +1,11 @@
+
 <div align="center">
 
 # Hey, I'm h4zvenn 👋
 
-### Junior Backend Developer · Python & Automation
+**Junior Backend Developer · Python & Automation**
 
-Building practical tools, exploring backend engineering, and turning ideas into working software.
+Building practical software, automation tools, and backend projects.
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/h4zvenn)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=offkuzmenko%40gmail.com)
@@ -15,76 +16,67 @@ Building practical tools, exploring backend engineering, and turning ideas into 
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a developer focused on **Python, backend engineering, and automation**.
+I'm a developer focused on **Python backend development, automation, and building tools that solve practical problems.**
 
-I enjoy building tools that solve real problems, experimenting with new technologies, and understanding how systems work behind the scenes.
+I enjoy exploring how systems work, improving existing solutions, and turning ideas into functional applications.
 
-- 🔧 Building Python applications and automation tools
-- 🌐 Exploring APIs, databases, and backend architecture
-- 📚 Writing technical documentation and sharing knowledge
-- 🚀 Improving projects through testing and iteration
+My approach to development is simple: write understandable code, keep things maintainable, and prioritize practical results.
 
-**Open to:** Junior Backend Developer roles and Python internships.
+**Open to:** Junior Backend Developer positions, Python internships, and open-source collaboration.
 
 ---
 
+## Featured Projects
 
-<h2>Featured Projects</h2>
+### 🎮 PC Gaming Optimization Guide
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Technical documentation covering Windows gaming performance, system diagnostics, and evidence-based optimization.
 
-<h3>🎮 PC Optimization Guide</h3>
+- Windows 11 configuration and troubleshooting
+- CPU, GPU, and network performance diagnostics
+- Game-specific optimization guides
+- Repeatable benchmarking and diagnostic utilities
+- Automated documentation checks
 
-Technical guides for Windows gaming performance, troubleshooting, and reproducible benchmarking.
+**Tech:** `Jekyll` · `Markdown` · `PowerShell` · `GitHub Actions`
 
-<sub><b>Jekyll · PowerShell · GitHub Actions</b></sub>
-
-<p>
-<a href="https://github.com/h4zvenn/gaming-pc-optimization-guide">Repository</a>
-&nbsp;·&nbsp;
-<a href="https://h4zvenn.github.io/gaming-pc-optimization-guide/">Live Site</a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>📝 Telegram Obsidian Bot</h3>
-
-Convert Telegram messages into structured Markdown notes with configurable templates.
-
-<sub><b>Python · Telegram Bot API · Markdown</b></sub>
-
-<p>
-<a href="https://github.com/h4zvenn/telegram-obsidian-bot-ru">Repository</a>
-</p>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-<h3>🖥️ Safe PC Assistant Bot</h3>
-
-A Telegram-based PC automation assistant with allowlisted actions and controlled execution.
-
-<sub><b>Python · Telegram Bot API · Automation</b></sub>
-
-<p>
-<a href="https://github.com/h4zvenn/safe-pc-assistant-bot">Repository</a>
-</p>
-
-</td>
-</tr>
-</table>
-
+[Repository](https://github.com/h4zvenn/gaming-pc-optimization-guide) · [Live Website](https://h4zvenn.github.io/gaming-pc-optimization-guide/)
 
 ---
 
-## 🛠️ Tech Stack
+### 📝 Telegram Obsidian Bot
+
+A Python Telegram bot that transforms incoming messages into organized Markdown notes for Obsidian.
+
+- Automatic message processing
+- Configurable note templates
+- Structured Markdown output
+- Separation of bot commands and processing logic
+
+**Tech:** `Python` · `Telegram Bot API` · `Markdown`
+
+[Repository](https://github.com/h4zvenn/telegram-obsidian-bot-ru)
+
+---
+
+### 🖥️ Safe PC Assistant Bot
+
+A Telegram-based assistant designed for controlled PC maintenance and automation.
+
+- Allowlisted system operations
+- Structured command execution
+- Predictable automation workflows
+- Explicit safety boundaries
+
+**Tech:** `Python` · `Telegram Bot API` · `Automation`
+
+[Repository](https://github.com/h4zvenn/safe-pc-assistant-bot)
+
+---
+
+## Tech Stack
 
 <div align="center">
 
@@ -95,23 +87,18 @@ A Telegram-based PC automation assistant with allowlisted actions and controlled
 
 </div>
 
+### Currently Learning
 
-## Currently Learning
+Expanding my backend development skills with:
 
-Building stronger foundations in backend development, databases, and testing.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+**FastAPI** · **PostgreSQL** · **Redis** · **Docker** · **pytest**
 
 ---
 
 <div align="center">
 
-**Interested in building something together?**
+**Interested in collaborating or discussing an opportunity?**
 
-[Get in touch](https://mail.google.com/mail/?view=cm&fs=1&to=offkuzmenko%40gmail.com)
+[![Get in Touch](https://img.shields.io/badge/Get_in_Touch-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=offkuzmenko%40gmail.com)
 
 </div>
