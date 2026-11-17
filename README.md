@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm h4zvenn 👋
+# Hey, I'm h4zvenn 👋
 
-**Junior Backend Developer | Python & Automation**
+### Junior Backend Developer · Python & Automation
 
-I build practical backend projects, Telegram bots, and automation tools with an emphasis on clear code, predictable behavior, and useful documentation.
+Building practical tools, exploring backend engineering, and turning ideas into working software.
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/h4zvenn)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:offkuzmenko@gmail.com)
@@ -15,59 +15,65 @@ I build practical backend projects, Telegram bots, and automation tools with an 
 
 ---
 
-## About me
+## 👨‍💻 About Me
 
-I'm focused on Python backend development and building tools that solve practical problems.
+I'm a developer focused on **Python, backend engineering, and automation**.
 
-My priorities when working on projects are:
+I enjoy building tools that solve real problems, experimenting with new technologies, and understanding how systems work behind the scenes.
 
-- **Clarity:** readable code and straightforward interfaces.
-- **Reliability:** input validation, predictable behavior, and safe defaults.
-- **Maintainability:** modular components, tests, and useful documentation.
-- **Practicality:** changes that can be explained, measured, and improved.
+- 🔧 Building Python applications and automation tools
+- 🌐 Exploring APIs, databases, and backend architecture
+- 📚 Writing technical documentation and sharing knowledge
+- 🚀 Improving projects through testing and iteration
 
-**Open to:** Junior Backend Developer opportunities and Python/FastAPI internships (remote or hybrid).
-
----
-
-## Featured projects
-
-### [Telegram Obsidian Bot](https://github.com/h4zvenn/telegram-obsidian-bot-ru)
-
-A Telegram bot that turns incoming messages into structured Markdown notes for Obsidian.
-
-- Processes messages and formats them as reusable notes.
-- Supports configurable note templates and structured output.
-- Separates bot commands from note-processing logic.
-
-**Technologies:** Python · Telegram Bot API · Markdown
-
-### [Safe PC Assistant Bot](https://github.com/h4zvenn/safe-pc-assistant-bot)
-
-A Telegram assistant for controlled PC maintenance and automation tasks.
-
-- Uses an allowlist of supported actions instead of arbitrary command execution.
-- Organizes commands into predictable execution flows.
-- Prioritizes explicit actions and understandable safety boundaries.
-
-**Technologies:** Python · Telegram Bot API · Automation
-
-### [PC Gaming Optimization Guide](https://github.com/h4zvenn/gaming-pc-optimization-guide)
-
-An English/Russian documentation project for evidence-based PC gaming optimization, focused on testing changes rather than promising universal FPS gains.
-
-- Covers Windows 11 optimization and legacy Windows 10 guidance.
-- Explains bottleneck diagnosis and repeatable benchmarking.
-- Includes game-specific guides and read-only diagnostic utilities.
-- Uses documentation checks and GitHub Actions workflows.
-
-**Technologies:** Jekyll · Markdown · PowerShell · GitHub Actions · GitHub Pages
-
-[**Read the guide →**](https://h4zvenn.github.io/gaming-pc-optimization-guide/)
+**Open to:** Junior Backend Developer roles and Python internships.
 
 ---
 
-## Tools & technologies
+## 🚀 Featured Projects
+
+### 🎮 [PC Gaming Optimization Guide](https://github.com/h4zvenn/gaming-pc-optimization-guide)
+
+A bilingual technical documentation project focused on Windows gaming performance, diagnostics, and evidence-based optimization.
+
+**Highlights**
+- Windows 11 optimization and legacy Windows 10 guidance
+- CPU, GPU, and network performance troubleshooting
+- Game-specific configuration guides
+- Repeatable benchmarks and diagnostic utilities
+- Automated documentation checks
+
+**Tech:** `Jekyll` `Markdown` `PowerShell` `GitHub Actions`
+
+🌐 [Live Documentation](https://h4zvenn.github.io/gaming-pc-optimization-guide/)
+
+### 📝 [Telegram Obsidian Bot](https://github.com/h4zvenn/telegram-obsidian-bot-ru)
+
+A Python Telegram bot designed to transform messages into structured Markdown notes for Obsidian.
+
+**Highlights**
+- Automatic message-to-note processing
+- Configurable Markdown templates
+- Structured note organization
+- Separation of commands and processing logic
+
+**Tech:** `Python` `Telegram Bot API` `Markdown`
+
+### 🖥️ [Safe PC Assistant Bot](https://github.com/h4zvenn/safe-pc-assistant-bot)
+
+A Telegram-based assistant for controlled PC automation and maintenance.
+
+**Highlights**
+- Allowlisted system operations
+- Structured command execution
+- Explicit operational boundaries
+- Focus on predictable, controlled behavior
+
+**Tech:** `Python` `Telegram Bot API` `Automation`
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -78,20 +84,22 @@ An English/Russian documentation project for evidence-based PC gaming optimizati
 
 </div>
 
-### Currently learning
+### 📖 Currently Learning
 
-- **FastAPI:** API routing, dependencies, service layers, and authentication.
-- **PostgreSQL:** relational modeling, migrations, indexing, and transactions.
-- **Redis:** caching and background-job patterns.
-- **Docker:** reproducible local development environments.
-- **Testing & operations:** pytest, integration tests, structured logs, and health checks.
+| Technology | Focus |
+|---|---|
+| **FastAPI** | REST APIs, dependencies, authentication |
+| **PostgreSQL** | SQL, relational modeling, migrations |
+| **Redis** | Caching and background tasks |
+| **Docker** | Containers and development environments |
+| **pytest** | Unit and integration testing |
 
 ---
 
 <div align="center">
 
-**Build useful things. Keep them simple. Make them reliable.**
+**Interested in building something together?**
 
-[Telegram](https://t.me/h4zvenn) · [Email](mailto:offkuzmenko@gmail.com) · [LinkedIn](https://www.linkedin.com/in/h4zvenn)
+[Get in touch](mailto:offkuzmenko@gmail.com)
 
 </div>
