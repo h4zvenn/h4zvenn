@@ -1,109 +1,84 @@
 <div align="center">
 
-# Hey, I'm h4zvenn 👋
+<h1>Hey, I’m h4zvenn 👋</h1>
 
-**Junior Backend Developer · Python & Automation**
+**Maksym Kuzmenko · Junior Python Backend Developer**
 
-Building practical software, automation tools, and backend projects.
+Python bots, automation tools, and Windows diagnostics.
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/h4zvenn)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=offkuzmenko%40gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h4zvenn)
-[![Resume](https://img.shields.io/badge/Resume-6D28D9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/h4zvenn/cv/main/H4ZVENN_Junior_Backend_Developer.pdf)
+[![Telegram](https://img.shields.io/badge/Telegram-0078A8?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/h4zvenn)
+[![Email](https://img.shields.io/badge/Email-B43429?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=offkuzmenko%40gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/h4zvenn)
+[![Resume](https://img.shields.io/badge/Resume-6D28D9?style=for-the-badge)](https://raw.githubusercontent.com/h4zvenn/cv/main/H4ZVENN_Junior_Backend_Developer.pdf)
 
 </div>
 
----
+## About me
 
-## About Me
+I build tools for tasks I run into myself, from saving notes on my phone to diagnosing performance issues on Windows. I’m learning FastAPI and PostgreSQL to build APIs backed by a database.
 
-I'm a developer focused on **Python backend development, automation, and building tools that solve practical problems.**
+**Open to** junior backend roles, Python internships, and open-source collaboration.
 
-I enjoy exploring how systems work, improving existing solutions, and turning ideas into functional applications.
-
-My approach to development is simple: write understandable code, keep things maintainable, and prioritize practical results.
-
-**Open to:** Junior Backend Developer positions, Python internships, and open-source collaboration.
-
----
-
-## Featured Projects
+## Featured projects
 
 ### 🎮 PC Gaming Optimization Guide
 
-Technical documentation covering Windows gaming performance, system diagnostics, and evidence-based optimization.
+A Windows 11 guide for tuning games and troubleshooting performance issues.
 
-- Windows 11 configuration and troubleshooting
-- CPU, GPU, and network performance diagnostics
-- Game-specific optimization guides
-- Repeatable benchmarking and diagnostic utilities
-- Automated documentation checks
+- Diagnose CPU, GPU, and network bottlenecks.
+- Compare results with repeatable benchmarks and PowerShell diagnostics.
+- Check documentation changes automatically with GitHub Actions.
 
-**Tech:** `Jekyll` · `Markdown` · `PowerShell` · `GitHub Actions`
+`Jekyll` · `Markdown` · `PowerShell` · `GitHub Actions`
 
-[Repository](https://github.com/h4zvenn/gaming-pc-optimization-guide) · [Live Website](https://h4zvenn.github.io/gaming-pc-optimization-guide/)
+[View repository](https://github.com/h4zvenn/gaming-pc-optimization-guide) · [Read the live guide](https://h4zvenn.github.io/gaming-pc-optimization-guide/)
 
 ---
 
 ### 📝 Telegram Obsidian Bot
 
-A Python Telegram bot that transforms incoming messages into organized Markdown notes for Obsidian.
+A Python bot that turns Telegram messages into Markdown notes for Obsidian.
 
-- Automatic message processing
-- Configurable note templates
-- Structured Markdown output
-- Separation of bot commands and processing logic
+- Use configurable templates to keep notes consistent.
+- Keep Telegram command handlers separate from note formatting.
 
-**Tech:** `Python` · `Telegram Bot API` · `Markdown`
+`Python` · `Telegram Bot API` · `Markdown`
 
-[Repository](https://github.com/h4zvenn/telegram-obsidian-bot-ru)
+[View repository](https://github.com/h4zvenn/telegram-obsidian-bot-ru)
 
 ---
 
 ### 🖥️ Safe PC Assistant Bot
 
-A Telegram-based assistant designed for controlled PC maintenance and automation.
+A Telegram bot for running routine PC maintenance tasks.
 
-- Allowlisted system operations
-- Structured command execution
-- Predictable automation workflows
-- Explicit safety boundaries
+- Restrict execution to a defined list of system operations.
+- Route supported commands through dedicated handlers.
 
-**Tech:** `Python` · `Telegram Bot API` · `Automation`
+`Python` · `Telegram Bot API` · `Windows automation`
 
-[Repository](https://github.com/h4zvenn/safe-pc-assistant-bot)
+[View repository](https://github.com/h4zvenn/safe-pc-assistant-bot)
 
----
-
-## Tech Stack
+## Tech stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-B73722?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1565C0?style=for-the-badge&logo=githubactions&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-29609F?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-363B44?style=for-the-badge&logo=markdown&logoColor=white)
 
 </div>
 
-### Currently Learning
+### Currently learning
 
 <div align="center">
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-**Interested in collaborating or discussing an opportunity?**
-
-[![Get in Touch](https://img.shields.io/badge/Get_in_Touch-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=offkuzmenko%40gmail.com)
+![FastAPI](https://img.shields.io/badge/FastAPI-00796B?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169A8?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-B52C24?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-146DB2?style=for-the-badge&logo=docker&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-087794?style=for-the-badge&logo=pytest&logoColor=white)
 
 </div>
